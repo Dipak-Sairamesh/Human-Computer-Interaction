@@ -1,5 +1,6 @@
 # Human-Computer Interaction
 Mock Projects on a Fitness Application as well as a Civic Engagement App based on Figma. 
+
 Key Concepts and Takeaways :
 The basic physiological, perceptual, and cognitive components of human learning and memory.
 User research, persona development, storyboarding, prototyping, usability evaluation, and user testing.
